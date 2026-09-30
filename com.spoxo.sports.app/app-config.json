@@ -1,0 +1,8 @@
+{
+  "statusCode": 200,
+  "data": {
+    "payload": "X2zOhoXyOqc3CN6yvg1GVw==:ytqUVkVI30IFj7ubQUPY44Z4e06ScgrFEfwl7p/vu10NyXNyCary/FDm4YkQ5i9BCkKEQ/NpBs7KuotfJ9riZyKuOlwvCfTW6+C02RVB2J2b1oNxL2z+dqX6df4XJ+z7FU5AvvN4x7FCODfZ9QEe/j6ZcpCTCU8L2h2My8gmScusYFb+RITQcdN09v0DVuBICFFahjkNeOvbXgnfTyMkgHNtRQiWQzN+XWWWEPa83/vnpD6OF7D4ovYfp0wglJxPkL3gCGUN+YFrrDNfK/VGo6zuybnfEsEYaAACjgtFJVvX2FGQ86VYupZoKZfWAPTrZf8zWGV6UcosRge/K1jK5kAAV1gBckObw8RC7F3ZpZWOtVaREk2R35zhwddRCvaM"
+  },
+  "message": "CDN configs fetched successfully",
+  "success": true
+}
